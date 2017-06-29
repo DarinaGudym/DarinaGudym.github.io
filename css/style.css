@@ -1,0 +1,23 @@
+.wrapper {
+    margin: 15px;
+}
+
+.m-b-15 {
+    margin-bottom: 15px;
+}
+
+.widget {
+    border: 1px solid #d26c22;
+}
+
+.widget h1 {
+    margin-bottom: 0;
+}
+
+.widget h3 {
+    margin-top: 0;
+}
+
+.widget > .head {
+    background-image: linear-gradient(to top left,#feb020,#ffd05c);
+}
